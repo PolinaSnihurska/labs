@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100..900&display=swap');
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.img {
+    width: 1000px;
+    height: auto;
+}
+
+.header {
+    font-family: "Big Shoulders Display";
+    font-size: 200px;
+    padding-top: 50px;
+    line-height: 180px;
+    
+}
+
+.margin{
+    margin-left: 35px;
+}
